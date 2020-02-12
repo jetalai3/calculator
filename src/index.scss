@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.tabform {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.makeStyles-root-1 {
+  border: 2px solid black;
+  height: 600px;
+}
+
+.divider {
+    margin: 20px auto;
+}
